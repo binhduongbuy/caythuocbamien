@@ -3,7 +3,7 @@ date: 2018-05-12
 title: Bài thuốc trị ho bằng lá hẹ và đường phèn vô cùng hiểu quả
 categories:
   - Bài Thuốc Chữa Bệnh
-featured_image: 
+featured_image: https://caythuoc.info/wp-content/uploads/lahetriho.jpg
 recipe:
   servings:  
   prep:  

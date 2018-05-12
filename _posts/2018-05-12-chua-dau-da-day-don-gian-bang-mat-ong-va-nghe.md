@@ -3,7 +3,7 @@ date: 2018-05-12
 title: Chữa đau dạ dày đơn giản bằng mật ong và nghệ
 categories:
   - Bài Thuốc Chữa Bệnh
-featured_image:
+featured_image: http://caythuoc.info/wp-content/uploads/cach-pha-tra-hoa-cuc-mat-ong-tri-mat-ngu-thanh-nhiet-giai-cam11449544429.jpg
 recipe:
   servings:  
   prep:  

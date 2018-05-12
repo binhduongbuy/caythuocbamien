@@ -3,7 +3,7 @@ date: 2018-05-12
 title: Bài thuốc dân gian tuyệt vời từ lá Mồng Tơi
 categories:
   - Bài Thuốc Chữa Bệnh
-featured_image: 
+featured_image: http://caythuoc.info/wp-content/uploads/lamongtoitribenh.jpg
 recipe:
   servings:  
   prep:  

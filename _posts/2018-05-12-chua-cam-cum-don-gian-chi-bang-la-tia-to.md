@@ -3,7 +3,7 @@ date: 2018-05-12
 title: Chữa cảm cúm đơn giản chỉ bằng lá Tía Tô
 categories:
   - Bài Thuốc Chữa Bệnh
-featured_image: 
+featured_image: https://caythuoc.info/wp-content/uploads/latiatotricam.jpg
 recipe:
   servings:  
   prep:  

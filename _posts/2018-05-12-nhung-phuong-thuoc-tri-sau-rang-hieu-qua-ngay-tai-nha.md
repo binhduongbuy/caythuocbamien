@@ -3,7 +3,7 @@ date: 2018-05-12
 title: Những phương thuốc trị sâu răng hiệu quả ngay tại nhà
 categories:
   - Bài Thuốc Chữa Bệnh
-featured_image: 
+featured_image: https://caythuoc.info/wp-content/uploads/tr%C3%ADauranghieuquatainha.jpg
 recipe:
   servings:  
   prep:  

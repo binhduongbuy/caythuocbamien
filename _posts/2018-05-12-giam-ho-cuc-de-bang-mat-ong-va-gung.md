@@ -3,7 +3,7 @@ date: 2018-05-12
 title: Giảm ho cực dễ bằng mật ong và gừng
 categories:
   - Bài Thuốc Chữa Bệnh
-featured_image: 
+featured_image: http://caythuoc.info/wp-content/uploads/tra-gung-mat-ong.jpg
 recipe:
   servings:  
   prep:  

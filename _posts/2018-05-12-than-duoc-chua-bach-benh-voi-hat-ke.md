@@ -3,7 +3,7 @@ date: 2018-05-12
 title: Thần dược chữa bách bệnh với hạt Kê
 categories:
   - Bài Thuốc Chữa Bệnh
-featured_image: 
+featured_image: https://caythuoc.info/wp-content/uploads/thanduocchuabenhbanghatke.jpg
 recipe:
   servings:  
   prep:  

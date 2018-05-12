@@ -3,7 +3,7 @@ date: 2018-05-12
 title: Chữa nhiều bệnh mãn tính nhờ ngậm tỏi 30 phút mỗi ngày
 categories:
   - Bài Thuốc Chữa Bệnh
-featured_image: 
+featured_image: http://caythuoc.info/wp-content/uploads/chuanhieubenhnhongamtoi.jpg
 recipe:
   servings:  
   prep:  
@@ -15,8 +15,6 @@ recipe:
 
 ---
 <h3>Liệu pháp ngậm tỏi 30 phút mỗi sáng thực chất là cách giữ gìn sức khỏe, chữa nhiều bệnh mãn tính được y học cổ truyền vô cùng ưu ái. Nguồn chất dinh dưỡng lành mạnh và tuyệt vời trong những tép tỏi luôn đem lại những lợi ích sức khỏe cho toàn bộ cơ thể bạn.</h3>
-
-<div align="center"><img src="http://caythuoc.info/wp-content/uploads/chuanhieubenhnhongamtoi.jpg" width="632px" height="336px"></div>
 
 Điều này đem lại những lợi ích sức khỏe vô cùng tuyệt vời. Các chất dinh dưỡng lành mạnh từ tỏi sẽ thâm nhập vào cơ thể qua nước bọt và làm sạch mạch máu. Sau khi ngậm tỏi 30 phút, bạn nên bỏ đi và vệ sinh răng miệng sạch sẽ. Nếu bạn vẫn thấy có mùi tỏi khó chịu trong miệng thì nên nhai 1 hạt cà phê hoặc một chút lá thơm để loại bỏ mùi.
 
