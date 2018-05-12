@@ -3,7 +3,7 @@ date: 2018-05-12
 title: Bài thuốc chữa bệnh cực hay và rẻ tiền từ Đậu Phụ
 categories:
   - Bài Thuốc Chữa Bệnh
-featured_image: 
+featured_image: http://caythuoc.info/wp-content/uploads/bai-thuoc-chua-benh-tu-dau-phu-1.png
 recipe:
   servings:  
   prep:  
@@ -18,7 +18,6 @@ recipe:
 
 Theo y học cổ truyền, đậu phụ vị ngọt, tính mát,… có công dụng ích khí khoan trung, kiện tỳ lợi thấp, sinh tân nhuận táo, thanh nhiệt giải độc.
 
-<div align="center"><img src="http://caythuoc.info/wp-content/uploads/bai-thuoc-chua-benh-tu-dau-phu-1.png" width="632px" height="336px"></div>
 
 Y học hiện đại cũng chứng minh, đậu phụ giàu chất đạm, nhiều axit amin, đặc biệt không chứa cholesterol nên có tác dụng điều chỉnh rối loạn lipit máu, chữa cao huyết áp và tim mạch.
 

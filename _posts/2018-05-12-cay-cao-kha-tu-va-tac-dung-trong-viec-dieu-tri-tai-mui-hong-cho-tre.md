@@ -3,7 +3,7 @@ date: 2018-05-12
 title: Cây Cao Kha Tử và tác dụng trong việc điều trị tai mũi họng cho trẻ
 categories:
   - Bài Thuốc Chữa Bệnh
-featured_image: 
+featured_image: http://caythuoc.info/wp-content/uploads/kha_tu_vi_thuoc_dau_bang_tri_viem_hong_khan_tieng.jpg
 recipe:
   servings:  
   prep:  
