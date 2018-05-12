@@ -46,7 +46,7 @@ Tác dụng làm dịu hệ thần kinh trung ương của loại trà này có 
 
 Một tách trà hoa cúc trắng mật ong nóng sẽ giúp cho tinh thần của bạn sảng khoái sau một ngày làm việc căng thẳng. Có thể uống trà hoa cúc vào bất kỳ thời gian nào trong ngày. Nếu dùng cho các phương pháp trị liệu, tốt nhất nên uống trà hoa cúc 2 – 3 lần trong ngày, trước bữa ăn từ 1 – 2 giờ.
 
-<center>![Raw herring salad](http://caythuoc.info/wp-content/uploads/cach-pha-tra-hoa-cuc-mat-ong-tri-mat-ngu-thanh-nhiet-giai-cam11449544429.jpg "Raw herring salad")</center>
+<div align="center"><img src="http://caythuoc.info/wp-content/uploads/cach-pha-tra-hoa-cuc-mat-ong-tri-mat-ngu-thanh-nhiet-giai-cam11449544429.jpg" width="632px" height="336px"></div>
 
 <h3>Nguyên liệu:</h3>
 
