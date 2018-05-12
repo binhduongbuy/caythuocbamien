@@ -1,9 +1,19 @@
 ---
 date: 2018-05-12
-title: Cây lược vàng – cây thuốc quý và những công dụng ít người biết
+title: Cây lược vàng cây thuốc quý và những công dụng ít người biết
 categories:
   - Bài Thuốc Chữa Bệnh
 featured_image: https://caythuoc.info/wp-content/uploads/cay-luoc-vang-632x400.jpg
+recipe:
+  servings:  
+  prep:  
+  cook:  
+  ingredients_markdown: |-
+    * 
+  directions_markdown: |-
+    1. 
+
+---
 Cây lược vàng thường được trồng làm cây cảnh ở khá nhiều gia đình Việt Nam và một số nước trên thế giới. Cây có nguồn gốc từ Mexico được di thực sang nước Nga rồi đến Việt Nam. 
 
 Lược vàng là cây thân bò, thân lược vàng chia làm nhiều đốt và có nhánh, lá đơn mọc so le, các phiến lá thuôn hình ngọn giáo có bề mặt nhẵn bóng, mặt trên có màu xanh đậm hơn mặt dưới, bẹ lá ôm kích lấy thân. Trong cây lược vàng có chứa các lipid béo, axit béo, axit hữu cơ, các vitamin BB, B2 và 1 số sắc tố karoten, flavonoid và steroid
