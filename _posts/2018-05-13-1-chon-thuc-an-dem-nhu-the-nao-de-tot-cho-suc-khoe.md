@@ -11,7 +11,7 @@ recipe:
   ingredients_markdown: |-
     * 
   directions_markdown: |-
-    1. 
+    2. 
 
 ---
 Theo DS Quang Huy, vào thời điểm cuối ngày và nhất là ban đêm, cơ thể đốt cháy ít năng lượng hơn… , lúc nửa đêm, khi đã ngủ, cơ thể gần như không tiêu thụ gì cả! Vậy nên nếu như càng ăn tối muộn thì nồng độ đường và nồng độ chất béo (triglyxerit) trong máu sẽ duy trì ở mức cao.

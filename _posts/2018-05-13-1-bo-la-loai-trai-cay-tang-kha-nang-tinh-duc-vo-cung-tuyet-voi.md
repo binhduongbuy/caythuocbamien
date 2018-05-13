@@ -11,7 +11,7 @@ recipe:
   ingredients_markdown: |-
     * 
   directions_markdown: |-
-    1. 
+    2. 
 
 ---
 <h3>Quả bơ không những thơm ngon, bổ dưỡng, giúp đẹp da mà còn làm tăng khả năng tình dục.</h3>
