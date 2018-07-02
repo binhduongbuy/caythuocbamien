@@ -3,7 +3,7 @@ date: 2018-07-02
 title: Món ăn bài thuốc hay từ loài cua đồng
 categories:
   - Món ăn chữa bệnh
-featured_image: http://www.thegioicaythuoc.com/wp-content/uploads/2018/06/Mon-an-thuoc-tu-cua-dong-canh_rieu_cua_dau_phu_resize-1528860827-14-width500height326.jpg
+featured_image: https://c2.staticflickr.com/2/1789/29283092568_6784065c94_o.jpg
 recipe:
   servings:  
   prep:  
@@ -20,7 +20,7 @@ recipe:
 
 <h3>Chữa trẻ em còi, gân xương yếu:</h3> thịt cua đồng 100g, bột bắp tươi 100g, lòng trắng trứng gà 1 quả, thịt gà, nước luộc gà, gia vị hành, mắm muối vừa đủ nấu súp ngô cua ăn tuần vài lần. Cua tác dụng bổ xương tủy. Bắp bổ tỳ vị, lợi ngũ tạng. Món này rất tốt cho trẻ em còi, chậm lớn, người già xương yếu, nhức mỏi, người suy nhược mới ốm dậy ăn kém…
 
- <div align="center"><img src="http://www.thegioicaythuoc.com/wp-content/uploads/2018/06/Mon-an-thuoc-tu-cua-dong-canh_rieu_cua_dau_phu_resize-1528860827-14-width500height326.jpg" width="632px" height="336px"></div>
+ <div align="center"><img src="https://c2.staticflickr.com/2/1789/29283092568_6784065c94_o.jpg" width="632px" height="336px"></div>
 <center><em>Canh cua đậu phụ ngon bổ mát, chữa đau đầu hoa mắt chóng mặt do âm huyết hỏa vượng, người gầy khó lên cân.</em></center>
 
 <h3>Chữa hoa mắt chóng mặt:</h3> thịt cua đồng 100g, đậu phụ 50g, cà chua 2 quả, hành hoa, mùi tàu, có thể thêm thịt băm, gia vị vừa đủ nấu canh riêu cua ăn tuần vài lần. Cua tác dụng bổ xương tủy, thông huyết. Đậu phụ giúp tư âm, bổ huyết, thanh hỏa. Cà chua giúp dưỡng âm, mát huyết, thanh nhiệt. Các vị hợp thành món canh ăn ngon bổ mát chữa đau đầu hoa mắt chóng mặt do âm huyết hỏa vượng, người gầy khó lên cân.
