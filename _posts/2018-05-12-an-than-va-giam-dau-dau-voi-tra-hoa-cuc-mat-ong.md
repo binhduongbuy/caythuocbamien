@@ -3,6 +3,9 @@ date: 2018-05-12
 title: An thần và giảm đau đầu với trà hoa cúc mật ong
 categories:
   - Bài Thuốc Chữa Bệnh
+tags: 
+- Du Lịch
+- Phú Quốc
 featured_image: https://caythuoc.info/wp-content/uploads/tra-hoa-cuc-632x336.jpg
 recipe:
   servings:  
